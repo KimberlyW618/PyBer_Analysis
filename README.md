@@ -12,7 +12,7 @@ Analyze two sets of data from a ridesharing app. The data is compiled of informa
 ## Results
 
 ### Code
-- [PyBer_Challenge.ipynb]( PyBer_Challenge.ipynb)
+- [PyBer_Challenge.ipynb](PyBer_Challenge.ipynb)
 
 ### Summary of Findings 
 
@@ -27,5 +27,6 @@ In analyzing the data for PyBar we see that
 ![Images/pyber_challenge_graph.png](Images/pyber_challenge_graph.png)
 
 #### Code
-- [PyBer_Challenge.ipynb]( PyBer_Challenge.ipynb)
-![Images/PyBer_Challenge_code.png](Images/PyBer_Challenge_code.png)
+- [PyBer_Challenge.ipynb](PyBer_Challenge.ipynb)
+- [Images/PyBar_Challenge_code.png](Images/PyBar_Challenge_code.png)
+![Images/PyBar_Challenge_code.png](Images/PyBar_Challenge_code.png)
